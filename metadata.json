@@ -1,0 +1,6 @@
+{
+  "name": "Al-Buraq Travel & Tours",
+  "description": "Premium travel agency specializing in Umrah, Hajj, and international visa services for China, Turkey, and beyond.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Umrah & Hajj Packages", "International Visa Services", "Hotel & Ticket Booking"]
+}
